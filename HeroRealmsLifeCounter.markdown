@@ -21,7 +21,7 @@ This will be updated with common questions (if any) about the usage of the app.
 **Q**: I don't want all the matches of this player to be included in the statistics anymore!  
 **A**: The easy way to handle that is to remove that player from the player list which will remove all matches including that player.
 
-**Q**: I have found a bug! How do I report it!?
+**Q**: I have found a bug! How do I report it!?  
 **A**: Please use the email at the bottom of this page and describe the problem you have encountered.
 
 <!--You can find the source code for Minima at GitHub:-->
