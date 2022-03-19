@@ -4,19 +4,30 @@ title: Hero Realms Life Counter
 permalink: /HeroRealmsLifeCounter/
 ---
 
-This is the page for the iOS app Hero Realms Life Counter. Here follows a short FAQ for using the app.
+This is the page for the iOS app Hero Realms Life Counter. Here follows a short FAQ for using the app.  
 
-* Test
 
-* Test 2
+Frequently Asked Questions
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Q**: How do I end a game?  
+**A**: You get the prompt to save match data when the life of a player reaches zero.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Q**: Why don't I get the prompt to save match data?  
+**A**: You have to make sure that both players are named, and is not the default Player1 or Player2.
+
+**Q**: Can I change the amount of healing/damage that the different arrows do?  
+**A**: As of now, no. This is planned in a future update.
+
+**Q**: I don't want all the matches of this player to be included in the statistics anymore!  
+**A**: The easy way to handle that is to remove that player from the player list which will remove all matches including that player.
+
+<!--You can find the source code for Minima at GitHub:-->
+<!--[jekyll][jekyll-organization] /-->
+<!--[minima](https://github.com/jekyll/minima)-->
+
+<!--You can find the source code for Jekyll at GitHub:-->
+<!--[jekyll][jekyll-organization] /-->
+<!--[jekyll](https://github.com/jekyll/jekyll)-->
 
 
 [jekyll-organization]: https://github.com/mil0m
