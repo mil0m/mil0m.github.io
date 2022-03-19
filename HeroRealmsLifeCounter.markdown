@@ -4,10 +4,10 @@ title: Hero Realms Life Counter
 permalink: /HeroRealmsLifeCounter/
 ---
 
-This is the page for the iOS app Hero Realms Life Counter. Here follows a short FAQ for using the app.  
+This is the page for the iOS app Hero Realms Life Counter. Here follows a short FAQ for using the app.
+This will be updated with common questions (if any) about the usage of the app.  
 
-
-Frequently Asked Questions
+# Frequently Asked Questions
 
 **Q**: How do I end a game?  
 **A**: You get the prompt to save match data when the life of a player reaches zero.
@@ -20,6 +20,9 @@ Frequently Asked Questions
 
 **Q**: I don't want all the matches of this player to be included in the statistics anymore!  
 **A**: The easy way to handle that is to remove that player from the player list which will remove all matches including that player.
+
+**Q**: I have found a bug! How do I report it!?
+**A**: Please use the email at the bottom of this page and describe the problem you have encountered.
 
 <!--You can find the source code for Minima at GitHub:-->
 <!--[jekyll][jekyll-organization] /-->

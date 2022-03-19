@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: App documentation
+title: Milom's Projects
 email: milom.apps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   On this site, you can find information and support about my different projects.
