@@ -7,11 +7,11 @@ Welcome! Here you'll find information and support for my apps.
 
 ---
 
-## Boka tvättid — Skogskarlen Booking
+## Boka tvättid
 
-A native iOS and Android app for booking laundry time at BRF Skogskarlen. Browse the weekly schedule, book and cancel time slots, and get reminders before your laundry time.
+En app för iOS och Android för att boka tvättstugan i BRF Skogskarlen. Se lediga tider, boka och avboka med ett tryck, och få påminnelser innan din tvättid.
 
-[App info](/SkogskarlenBooking/) · [Support](/SkogskarlenBooking/Support/) · [Privacy Policy](/SkogskarlenBooking/PrivacyPolicy/)
+[Om appen](/SkogskarlenBooking/) · [Support](/SkogskarlenBooking/Support/) · [Integritetspolicy](/SkogskarlenBooking/PrivacyPolicy/)
 
 ---
 

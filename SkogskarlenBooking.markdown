@@ -4,22 +4,22 @@ title: Boka tvättid
 permalink: /SkogskarlenBooking/
 ---
 
-**Boka tvättid** is a native iOS and Android app for booking laundry time at BRF Skogskarlen.
+**Boka tvättid** är en app för iOS och Android som gör det enkelt att boka tvättstugan i BRF Skogskarlen.
 
-## Features
+## Funktioner
 
-- **Schedule overview** — Browse all laundry rooms in a weekly grid with color-coded time slots
-- **Book and cancel** — Tap to book available slots or cancel your bookings, with confirmation dialogs
-- **My bookings** — See all your upcoming laundry times with countdowns and room names
-- **Reminders** — Get a notification one hour before your booked laundry time
-- **Language support** — Use the app in Swedish or English
-- **Accessibility** — Full support for VoiceOver (iOS) and TalkBack (Android)
+- **Schemaöversikt** — Se alla tvättstugor i ett veckovy med färgkodade tider
+- **Boka och avboka** — Tryck på en ledig tid för att boka, eller avboka dina bokningar
+- **Mina bokningar** — Se alla dina kommande tvättider med nedräkning och rumsnamn
+- **Påminnelser** — Få en notis en timme innan din bokade tvättid
+- **Språkstöd** — Använd appen på svenska eller engelska
+- **Tillgänglighet** — Stöd för VoiceOver (iOS) och TalkBack (Android)
 
-## Links
+## Länkar
 
-- [Support & FAQ](/SkogskarlenBooking/Support/)
-- [Privacy Policy](/SkogskarlenBooking/PrivacyPolicy/)
+- [Support & Vanliga frågor](/SkogskarlenBooking/Support/)
+- [Integritetspolicy](/SkogskarlenBooking/PrivacyPolicy/)
 
-## Contact
+## Kontakt
 
-For questions or feedback, email [milom.apps@gmail.com](mailto:milom.apps@gmail.com).
+Frågor eller synpunkter? Mejla [milom.apps@gmail.com](mailto:milom.apps@gmail.com).
