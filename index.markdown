@@ -1,9 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-title: Milom's projects
+layout: home
+title: Milom's Projects
 ---
 
-Welcome, here you will find information about my different projects and apps. 
+Welcome! Here you'll find information and support for my apps.
+
+---
+
+## Boka tvättid — Skogskarlen Booking
+
+A native iOS and Android app for booking laundry time at BRF Skogskarlen. Browse the weekly schedule, book and cancel time slots, and get reminders before your laundry time.
+
+[App info](/SkogskarlenBooking/) · [Support](/SkogskarlenBooking/Support/) · [Privacy Policy](/SkogskarlenBooking/PrivacyPolicy/)
+
+---
+
+## Hero Realms Life Counter
+
+An iOS app for tracking life totals in the deck-building game Hero Realms. Keep score, save match history, and view player statistics.
+
+[App info & FAQ](/HeroRealmsLifeCounter/) · [Privacy Policy](/PrivacyPolicy/)
