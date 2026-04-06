@@ -1,17 +1,10 @@
 title: Milom's Projects
 email: milom.apps@gmail.com
 description: >-
-  Apps and projects by Milom. Support pages, privacy policies, and information about my iOS and Android apps.
+  Apps and projects by Milom. iOS and Android developer.
 baseurl: ""
 url: ""
 github_username: mil0m
 
-# Build settings
-theme: minima
 plugins:
   - jekyll-feed
-
-# Only show these pages in the header navigation
-header_pages:
-  - SkogskarlenBooking.markdown
-  - HeroRealmsLifeCounter.markdown
